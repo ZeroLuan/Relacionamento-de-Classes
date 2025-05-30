@@ -1,0 +1,10 @@
+br\com\ifba\mavenproject1\entity\Responsavel.class
+br\com\ifba\mavenproject1\entity\Aluno.class
+br\com\ifba\mavenproject1\entity\Pessoa.class
+br\com\ifba\mavenproject1\entity\TecnicoAdmnistrativo.class
+br\com\ifba\mavenproject1\entity\Professor.class
+br\com\ifba\mavenproject1\Mavenproject1.class
+br\com\ifba\mavenproject1\entity\Servidor.class
+br\com\ifba\mavenproject1\entity\Curso.class
+br\com\ifba\mavenproject1\entity\Turma.class
+br\com\ifba\mavenproject1\entity\Disciplina.class
